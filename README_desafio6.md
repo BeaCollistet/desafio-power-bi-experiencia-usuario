@@ -53,7 +53,7 @@ Projeto prático do desafio da DIO. Parti do relatório **Sales Report**, fornec
 
 ## 🧠 O que aprendi
 
-[Escreva 2 ou 3 frases com suas palavras. Por exemplo: como criar um menu de navegação, configurar o efeito dos botões ao focalizar e selecionar, e usar contraste para melhorar a leitura.]
+Aprendi a criar um menu de navegação, configurar o efeito dos botões ao focalizar e selecionar, e usar contraste para melhorar a leitura.
 
 ## 🔗 Referências
 
